@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
