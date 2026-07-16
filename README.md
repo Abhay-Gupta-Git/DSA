@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3110-score-of-a-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3110-score-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
