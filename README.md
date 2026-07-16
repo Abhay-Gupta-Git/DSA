@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3110-score-of-a-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Backtracking
 |  |
