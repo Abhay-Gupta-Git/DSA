@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
