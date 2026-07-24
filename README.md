@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3151-special-array-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3151-special-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
