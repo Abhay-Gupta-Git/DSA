@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
