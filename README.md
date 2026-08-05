@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0015-3sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0495-teemo-attacking) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
