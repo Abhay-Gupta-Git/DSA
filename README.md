@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3280-convert-date-to-binary) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
 | ------- |
