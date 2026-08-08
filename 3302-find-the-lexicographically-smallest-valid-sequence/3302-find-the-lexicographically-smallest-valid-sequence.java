@@ -3,13 +3,13 @@ class Solution {
         int n=word1.length();
         int m=word2.length();
         int[] last=new int[m];
-        for(int i=0;i<m;i++) {
+        for(int i=0;i<m;i++){
             last[i]=-1;
         }
         int i=n-1;
         int j=m-1;
-        while(i>=0&&j>=0) {
-            if(word1.charAt(i)==word2.charAt(j)) {
+        while(i>=0&&j>=0){
+            if(word1.charAt(i)==word2.charAt(j)){
                 last[j]=i;
                 j--;
             }
@@ -19,12 +19,12 @@ class Solution {
         boolean changed=false;
         i=0;
         j=0;
-        while(i<n&&j<m) {
-            if(word1.charAt(i)==word2.charAt(j)) {
+        while(i<n&&j<m){
+            if(word1.charAt(i)==word2.charAt(j)){
                 ans[j]=i;
                 j++;
-            }else if(!changed) {
-                if(j==m-1||i<last[j+1]) {
+            }else if(!changed){
+                if(j==m-1||i<last[j+1]){
                     ans[j]=i;
                     j++;
                     changed=true;
@@ -32,7 +32,7 @@ class Solution {
             }
             i++;
         }
-        if(j==m) {
+        if(j==m){
             return ans;
         }
         return new int[0];
