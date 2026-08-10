@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1046-last-stone-weight](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
