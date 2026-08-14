@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
