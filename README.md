@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3270-find-the-key-of-the-numbers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1323-maximum-69-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -219,14 +223,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -264,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
