@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3151-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
