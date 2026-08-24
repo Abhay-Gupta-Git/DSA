@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0875-koko-eating-bananas](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
