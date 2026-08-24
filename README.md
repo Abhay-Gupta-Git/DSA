@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0495-teemo-attacking) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
