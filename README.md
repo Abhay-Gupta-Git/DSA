@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
