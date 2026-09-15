@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0875-koko-eating-bananas) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
@@ -369,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
