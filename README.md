@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Heap (Priority Queue)
 |  |
