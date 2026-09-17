@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0330-patching-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0330-patching-array) |
 | [0414-third-maximum-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0495-teemo-attacking) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0605-can-place-flowers) |
