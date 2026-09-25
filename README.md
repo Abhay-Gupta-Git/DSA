@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0458-poor-pigs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0410-split-array-largest-sum) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
