@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1143-longest-common-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
