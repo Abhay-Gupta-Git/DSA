@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0414-third-maximum-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0486-predict-the-winner) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Heap (Priority Queue)
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0938-range-sum-of-bst](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -439,4 +444,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1143-longest-common-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
