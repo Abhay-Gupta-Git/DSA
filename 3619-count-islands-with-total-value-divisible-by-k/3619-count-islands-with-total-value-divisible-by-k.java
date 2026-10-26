@@ -1,54 +1,32 @@
-
 class Solution {
+
+    private int m, n;
+    private final int[] dirs = { -1, 0, 1, 0, -1 };
+
     public int countIslands(int[][] grid, int k) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int count = 0;
-
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-
-        int[] stack = new int[m * n];
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    continue;
-                }
-
-                int top = 0;
-                stack[top++] = i * n + j;
-
-                long sum = 0;
-                sum += grid[i][j];
-                grid[i][j] = 0;
-
-                while (top > 0) {
-                    int cell = stack[--top];
-                    int r = cell / n;
-                    int c = cell % n;
-
-                    for (int d = 0; d < 4; d++) {
-                        int nr = r + dr[d];
-                        int nc = c + dc[d];
-
-                        if (nr >= 0 && nr < m &&
-                            nc >= 0 && nc < n &&
-                            grid[nr][nc] > 0) {
-
-                            sum += grid[nr][nc];
-                            grid[nr][nc] = 0;
-                            stack[top++] = nr * n + nc;
-                        }
-                    }
-                }
-
-                if (sum % k == 0) {
-                    count++;
+        m = grid.length;
+        n = grid[0].length;
+        int ans = 0;
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                if (grid[i][j] > 0 && dfs(grid, i, j) % k == 0) {
+                    ++ans;
                 }
             }
         }
+        return ans;
+    }
 
-        return count;
+    private long dfs(int[][] grid, int i, int j) {
+        long sum = grid[i][j];
+        grid[i][j] = 0;
+        for (int d = 0; d < 4; ++d) {
+            int x = i + dirs[d],
+                y = j + dirs[d + 1];
+            if (x >= 0 && x < m && y >= 0 && y < n && grid[x][y] > 0) {
+                sum += dfs(grid, x, y);
+            }
+        }
+        return sum;
     }
 }
