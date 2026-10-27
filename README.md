@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0997-find-the-town-judge](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0997-find-the-town-judge](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0997-find-the-town-judge](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
