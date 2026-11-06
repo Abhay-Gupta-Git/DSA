@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3206-alternating-groups-i) |
