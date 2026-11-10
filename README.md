@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0409-longest-palindrome) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0022-generate-parentheses) |
