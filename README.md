@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3019-number-of-changing-keys) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Abhay-Gupta-Git/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Abhay-Gupta-Git/DSA/tree/master/3693-climbing-stairs-ii) |
