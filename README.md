@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2747-count-zero-request-servers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Abhay-Gupta-Git/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
